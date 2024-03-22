@@ -1,4 +1,4 @@
-# Author:Wanwan Fang
+# Author:Angela Fang
 # Date:25/8/2023
 # Purpose:to create a simple login program
 
